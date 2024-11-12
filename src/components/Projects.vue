@@ -57,13 +57,13 @@ export default {
         {
           title: 'To-Do List App',
           description: 'A to-do list app built with Vue.js and Vuetify.',
-          image: 'src/assets/code.jpg',
+          image: '/assets/code.jpg',
           link: 'https://example.com/to-do-list',
         },
         {
           title: 'Interactive Learning Platform',
           description: 'A platform for interactive learning with quizzes and videos.',
-          image: 'src/assets/code.jpg',
+          image: '/assets/code.jpg',
           link: 'https://example.com/learning-platform',
         },
       ],
