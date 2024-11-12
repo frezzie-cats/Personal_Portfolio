@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    "src/components/AppFooter.vue",
+    "src/components/HelloWorld.vue",
+    "src/components/Resume.vue",
+    "src/components/NavBar.vue"
+  ]
+}
