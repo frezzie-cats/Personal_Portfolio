@@ -44,7 +44,7 @@ export default {
 
 <style scoped>
 .hero-section {
-  background-image: url('src/assets/hero-background.jpg'); /* Background image URL */
+  background-image: url('@/assets/hero-background.jpg');
   background-size: cover;
   background-position: center;
   color: white;
